@@ -4,6 +4,7 @@ class Dog
   end 
   def sit 
     puts "The Dog is sitting"
+    binding.pry
   end 
 end
 
